@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
-  name: 'Example Plug-in',
-  script: './dist/client.js'
+  name: 'Deploy Plug-in',
+  script: './dist/client.js',
+  menu: './menu.js'
 };

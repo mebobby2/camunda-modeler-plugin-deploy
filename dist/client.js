@@ -151,8 +151,8 @@ __webpack_require__.r(__webpack_exports__);
  *
  */
 /* harmony default export */ __webpack_exports__["default"] = ({
-  __init__: [ 'PLEASE_CHANGE_ME' ],
-  PLEASE_CHANGE_ME: [ 'type', _ExampleExtensionService__WEBPACK_IMPORTED_MODULE_0__["default"] ]
+  __init__: [ 'CMPDEPLOY' ],
+  CMPDEPLOY: [ 'type', _ExampleExtensionService__WEBPACK_IMPORTED_MODULE_0__["default"] ]
 });
 
 
